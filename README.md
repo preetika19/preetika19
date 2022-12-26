@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Preetika Lakshmanan
+
+🌱 I’m currently learning <b> React </b>
+📫 How to reach me: preetika19@gmail.com
 
 <!--
 **preetika19/preetika19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
