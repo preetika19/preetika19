@@ -32,6 +32,9 @@
 <!--   <img src=""  title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
 
+### :speech_balloon: Connect with me :
+<a href="https://www.linkedin.com/in/preetika-lakshmanan/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>&nbsp;
+
 <!--
 **preetika19/preetika19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
