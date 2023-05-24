@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Preetika Lakshmanan
 
 🏫 MS in CS at the University of Texas at Dallas</br>
-🌱 I’m currently learning <b> React </b> <br />
+🌱 I’m currently learning <b> React </b> , <b> AWS </b> <br />
 📫 How to reach me: preetika19@gmail.com <br />
 
 ### :fire: My Stats :
